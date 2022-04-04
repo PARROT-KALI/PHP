@@ -1,0 +1,33 @@
+﻿.wrapper
+{
+    padding: 10px 10px;
+    width: 800px;
+    margin: 50px auto 0px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.wrapper .search{margin-bottom: 40px;margin-left: 30px;}
+.wrapper .search input         /*文本框设定*/
+{
+    width:350px;
+    height:40px;
+    border: 3px solid red;
+    outline: none;
+    padding-left:10px;
+    border-radius: 6px;
+    font-size:25px
+}
+
+.wrapper .standList ul li
+{
+    position:relative;
+    padding-top:15px;
+    padding-bottom:10px;
+    padding-left:30px;
+    border-bottom: 5px solid red;
+    cursor:pointer;
+    height:48px;
+}
+
+
+
